@@ -62,4 +62,5 @@ dkms.conf
 
 Output
 *.jlink
+*.emSession
 
