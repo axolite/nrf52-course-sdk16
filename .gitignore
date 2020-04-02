@@ -61,4 +61,5 @@ dkms.conf
 # CUSTOM for SEGGER Embedded Studio
 
 Output
+*.jlink
 
