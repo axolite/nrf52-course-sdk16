@@ -98,6 +98,8 @@
     <folder Name="Application">
       <file file_name="../../../main.c" />
       <file file_name="../config/sdk_config.h" />
+      <file file_name="../../../ble_cus.c" />
+      <file file_name="../../../ble_cus.h" />
     </folder>
     <folder Name="nRF_Segger_RTT">
       <file file_name="../../../../blesdk/external/segger_rtt/SEGGER_RTT.c" />
